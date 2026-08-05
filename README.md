@@ -41,9 +41,3 @@ git add index.html
 git commit -m "update"
 git push
 ```
-
-推送后 GitHub Pages 会自动重新构建。
-
----
-
-纯工具，无追踪、无广告。
