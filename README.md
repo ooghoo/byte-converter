@@ -6,7 +6,7 @@
 
 ## 🔗 在线使用
 
-https://ooghoo.github.io/html-tools/
+https://ooghoo.github.io/htools/
 
 首页是所有工具的导航入口。
 
@@ -21,7 +21,7 @@ https://ooghoo.github.io/html-tools/
 ## 🖥 本地使用
 
 ```bash
-git clone https://github.com/ooghoo/html-tools.git
+git clone https://github.com/ooghoo/htools.git
 ```
 
 - 打开全部工具：双击根目录 `index.html`
